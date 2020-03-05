@@ -15,7 +15,7 @@ import java.util.Arrays;
 
         Deadfish.parse("iiisdoso") =- new int[] {8, 64};
 */
-public class DeadFish {
+public class MakeTheDeadFishSwim {
 
     public static int[] parse(String data) {
         int len = 0;
