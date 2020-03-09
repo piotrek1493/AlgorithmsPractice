@@ -3,8 +3,8 @@
 A repo created to store and keep track of solutions of hackerrank.com/codewars.com
 challanges in Java/C#.
 
-You can find me on codewars [here](https://www.codewars.com/users/piotrek1493)
-You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493)
+You can find me on codewars [here](https://www.codewars.com/users/piotrek1493).
+You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 
 |Webiste|Language|Problem Name|Problem Link|Solution Link|
 ---|---|---|---|---
@@ -25,4 +25,10 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493)
 |Codewars|Java|Where Is My Parent!?(cry)|[Problem](https://www.codewars.com/kata/58539230879867a8cd00011c/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata6/WhereIsMyParent.java)|
 |Codewars|Java|Which Are In?|[Problem](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata6/WhichAreIn.java)|
 |Codewars|Java|Your Order, Please|[Problem](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata6/YourOrderPlease.java)|
+|Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata6/EnglishBeggars.java)|
+|Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata5/BestTravel.java)|
+|Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata5/HumanReadableTime.java)|
+|Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata5/RemovedNumbers.java)|
+|Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata5/Scramblies.java)|
+|Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](AlgorithmsPractice/src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|
 |Hackerrank|Java|Climbing The Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solution](https://github.com/piotrek1493/AlgorithmsPractice/blob/master/src/HackerrankSolutions/Medium/ClimbingTheLeaderBoard.java)|
