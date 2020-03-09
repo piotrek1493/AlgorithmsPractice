@@ -1,4 +1,4 @@
-package HackerrankSolutions.Hard;
+package HackerrankSolutions.Medium;
 
 import java.io.*;
 import java.math.*;
