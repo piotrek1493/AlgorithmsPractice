@@ -31,4 +31,7 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|
 |Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|
 |Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|
+|Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|
+|Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|
+|Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|
 |Hackerrank|Java|Climbing The Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solution](src/HackerrankSolutions/Medium/ClimbingTheLeaderBoard.java)|
