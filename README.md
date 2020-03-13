@@ -39,7 +39,7 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
-|Hackerrank|Java|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|Solution(src/HackerrankSolutions/Easy/MarkAndToys.java)|Easy|
+|Hackerrank|Java|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[Solution](src/HackerrankSolutions/Easy/MarkAndToys.java)|Easy|
 |Hackerrank|Java|Climbing The Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solution](src/HackerrankSolutions/Medium/ClimbingTheLeaderBoard.java)|Medium|
 |Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
 |Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
