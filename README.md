@@ -35,7 +35,14 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
 |Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
 |Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
-|Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolution/kata6/BackspacesInString.java)|6 kyu|
-|Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolution/kata6/Thirteen.java)|6 kyu|
-|Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolution/kata6/TwoSum.java)|6 kyu|
+|Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
+|Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
+|Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
+|Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
+|Hackerrank|Java|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|Solution(src/HackerrankSolutions/Easy/MarkAndToys.java)|Easy|
 |Hackerrank|Java|Climbing The Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solution](src/HackerrankSolutions/Medium/ClimbingTheLeaderBoard.java)|Medium|
+|Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
+|Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
+|Hackerrank|Java|The Time In Words|[Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution](src/HackerrankSolutions/Medium/TheTimeInWords.java)|Medium|
+
+
