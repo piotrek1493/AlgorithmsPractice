@@ -39,7 +39,18 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
+|Hackerrank|Java|Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](src/HackerrankSolutions/Easy/FlatlandSpaceStations.java)|Easy|
+|Hackerrank|Java|Ice Cream Parlor|[Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](src/HackerrankSolutions/Easy/IceCreamParlor.java)|Easy|
+|Hackerrank|Java|Gemstones|[Problem](https://www.hackerrank.com/challenges/gem-stones/problem)|[Solution](src/HackerrankSolutions/Easy/Gemstones.java)|Easy|
+|Hackerrank|Java|Save The Prisoner!|[Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[Solution](src/HackerrankSolutions/Easy/SaveThePrisoner.java)|Easy|
+|Hackerrank|Java|ACM ICPC Team|[Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[Solution](src/HackerrankSolutions/Easy/ACMTeam.java)|Easy|
+|Hackerrank|Java}Taum and B'day|[Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[Solution](src/HackerrankSolutions/Easy/TaumBDay.java)|Easy|
+|Hackerrank|Java|---name---|[Problem]()|[Solution]()|Easy|
+|Hackerrank|Java|---name---|[Problem]()|[Solution]()|Easy|
+|Hackerrank|Java|---name---|[Problem]()|[Solution]()|Easy|
+|Hackerrank|Java|Sherlock and Squares|[Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[Solution](src/HackerrankSolutions/Easy/SherlockAndSquares.java)|Easy|
 |Hackerrank|Java|Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[Solution](src/HackerrankSolutions/Easy/MarkAndToys.java)|Easy|
+|Hackerrank|Java|Circular Array Rotation|[Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[Solution](src/HackerrankSolutions/Medium/CircularArrayRotation.java)|Medium|
 |Hackerrank|Java|Climbing The Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[Solution](src/HackerrankSolutions/Medium/ClimbingTheLeaderBoard.java)|Medium|
 |Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
 |Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
