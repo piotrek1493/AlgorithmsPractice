@@ -44,7 +44,7 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Hackerrank|Java|Gemstones|[Problem](https://www.hackerrank.com/challenges/gem-stones/problem)|[Solution](src/HackerrankSolutions/Easy/Gemstones.java)|Easy|
 |Hackerrank|Java|Save The Prisoner!|[Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[Solution](src/HackerrankSolutions/Easy/SaveThePrisoner.java)|Easy|
 |Hackerrank|Java|ACM ICPC Team|[Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[Solution](src/HackerrankSolutions/Easy/ACMTeam.java)|Easy|
-|Hackerrank|Java}Taum and B'day|[Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[Solution](src/HackerrankSolutions/Easy/TaumBDay.java)|Easy|
+|Hackerrank|Java|Taum and B'day|[Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[Solution](src/HackerrankSolutions/Easy/TaumBDay.java)|Easy|
 |Hackerrank|Java|Two Strings|[Problem](https://www.hackerrank.com/challenges/two-strings/problem)|[Solution](src/HackerrankSolutions/Easy/TwoStrings.java)|Easy|
 |Hackerrank|Java|Day of the Programmer|[Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[Solution](src/HackerrankSolutions/Easy/DayOfTheProgrammer.java)|Easy|
 |Hackerrank|Java|Caesar Cipher|[Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[Solution](src/HackerrankSolutions/Easy/CaesarCipher.java)|Easy|
