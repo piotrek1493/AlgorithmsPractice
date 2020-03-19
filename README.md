@@ -31,6 +31,7 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](src/CodewarsSolutions/kata6/EnglishBeggars.java)|6 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
 |Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
+|Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
 |Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|5 kyu|
 |Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|5 kyu|
 |Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
