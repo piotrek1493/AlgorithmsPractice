@@ -13,7 +13,6 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
-|Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata5/DataReverse.java)|5 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
 |Codewars|Java|Equal Sides Of An Array|[Problem](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/EqualSidesOfAnArray.java)|6 kyu|
 |Codewars|Java|Find The Missing Letter|[Problem](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheMissingLetter.java)|6 kyu|
@@ -29,13 +28,16 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Which Are In?|[Problem](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/java)|[Solution](src/CodewarsSolutions/kata6/WhichAreIn.java)|6 kyu|
 |Codewars|Java|Your Order, Please|[Problem](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)|[Solution](src/CodewarsSolutions/kata6/YourOrderPlease.java)|6 kyu|
 |Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](src/CodewarsSolutions/kata6/EnglishBeggars.java)|6 kyu|
+|Codewars|Java|Persistent Bugger|[Problem](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java)|[Solution](src/CodewarsSolutions/kata6/PersistentBugger.java)|6 kyu|
+|Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata5/DataReverse.java)|5 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
 |Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
-|Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
+|Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/PerfectPower.java)|5 kyu|
 |Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|5 kyu|
 |Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|5 kyu|
 |Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
 |Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|5 kyu|
+|Codewars|Java|Playing with digits|[Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithDigits.java)|6 kyu|
 |Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
 |Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
 |Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
