@@ -1,10 +1,10 @@
 ## AlgorithmsPractice
 
 A repo created to store and keep track of solutions of hackerrank.com/codewars.com
-challanges, mostly in Java.
+challanges, mostly in Java with an occasional SQL query.
 
-You can find me on codewars [here](https://www.codewars.com/users/piotrek1493).
-You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
+You can find me on Codewars [here](https://www.codewars.com/users/piotrek1493).
+You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 
 |Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|
 ---|---|---|---|---|---
@@ -29,6 +29,13 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Your Order, Please|[Problem](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)|[Solution](src/CodewarsSolutions/kata6/YourOrderPlease.java)|6 kyu|
 |Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](src/CodewarsSolutions/kata6/EnglishBeggars.java)|6 kyu|
 |Codewars|Java|Persistent Bugger|[Problem](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java)|[Solution](src/CodewarsSolutions/kata6/PersistentBugger.java)|6 kyu|
+|Codewars|Java|Playing with digits|[Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithDigits.java)|6 kyu|
+|Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
+|Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
+|Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
+|Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
+|Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
+|Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata5/DataReverse.java)|5 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
 |Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
@@ -37,13 +44,6 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|5 kyu|
 |Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
 |Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|5 kyu|
-|Codewars|Java|Playing with digits|[Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithDigits.java)|6 kyu|
-|Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
-|Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
-|Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
-|Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
-|Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
-|Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
 |Hackerrank|Java|Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](src/HackerrankSolutions/Easy/FlatlandSpaceStations.java)|Easy|
 |Hackerrank|Java|Ice Cream Parlor|[Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](src/HackerrankSolutions/Easy/IceCreamParlor.java)|Easy|
@@ -61,5 +61,18 @@ You can find me on hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
 |Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
 |Hackerrank|Java|The Time In Words|[Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution](src/HackerrankSolutions/Medium/TheTimeInWords.java)|Medium|
+|Codewars|SQL|SQL Basics: Simple HAVING|[Problem](https://www.codewars.com/kata/58164ddf890632ce00000220/train/sql)|Solution(src/CodewarsSolutions/kata6/SQLBasicsSimpleHaving.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: Simple IN|[Problem](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleIn.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: Simple JOIN and RANK|[Problem](https://www.codewars.com/kata/58094559c47d323ebd000035/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleJoinAndRank.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: Simple NULL Handling|[Problem](https://www.codewars.com/kata/5811315e04adbbdb5000050e/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleNullHandling.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: Top 10 Customers by Payments Amount|[Problem](https://www.codewars.com/kata/580d08b5c049aef8f900007c/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsTop10CustomersByPaymentsAmount.sql)|6 kyu|
+|Codewars|SQL|SQL Bug Fixing: Fix the QUERY Totaling|[Problem](https://www.codewars.com/kata/582cba7d3be8ce3a8300007c/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBugFixingFixTheQueryTotaling.sql)|6 kyu|
+|Codewars|SQL|SQL: Calculating Battling Average|[Problem](https://www.codewars.com/kata/5994dafcbddc2f116d000024/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLCalculatingBattlingAverage.sql)|6 kyu|
+|Codewars|SQL|SQL: Conditional Count|[Problem](https://www.codewars.com/kata/5816a3ecf54413a113000074/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLConditionalCount.sql)|6 kyu|
+|Codewars|SQL|SQL: REGEX AlphaNumeric Split|[Problem](https://www.codewars.com/kata/594257d4db68b6e99200002c/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLRegexAlphaNumericSplit.sql)|6 kyu|
+|Codewars|SQL|SQL: Select Prime Numbers|[Problem](https://www.codewars.com/kata/59be9f425227ddd60c00003b/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLSelectPrimeNumbers.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: GROUP BY Day|[Problem](https://www.codewars.com/kata/5811597e9d278beb04000038/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsGroupByDay.sql)|5 kyu|
+|Codewars|SQL|SQL Basics: Simple VIEW|[Problem](https://www.codewars.com/kata/5811527d9d278b242f000006/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsSimpleView.sql)|5 kyu|
+|Codewars|SQL|SQL Statistics: MIN, MEDIAN, MAX|[Problem](https://www.codewars.com/kata/58167fa1f544130dcf000317/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLStatisticsMinMedianMax.sql)|5 kyu|
 
 
