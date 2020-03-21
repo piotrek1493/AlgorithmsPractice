@@ -61,7 +61,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
 |Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
 |Hackerrank|Java|The Time In Words|[Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution](src/HackerrankSolutions/Medium/TheTimeInWords.java)|Medium|
-|Codewars|SQL|SQL Basics: Simple HAVING|[Problem](https://www.codewars.com/kata/58164ddf890632ce00000220/train/sql)|Solution(src/CodewarsSolutions/kata6/SQLBasicsSimpleHaving.sql)|6 kyu|
+|Codewars|SQL|SQL Basics: Simple HAVING|[Problem](https://www.codewars.com/kata/58164ddf890632ce00000220/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleHaving.sql)|6 kyu|
 |Codewars|SQL|SQL Basics: Simple IN|[Problem](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleIn.sql)|6 kyu|
 |Codewars|SQL|SQL Basics: Simple JOIN and RANK|[Problem](https://www.codewars.com/kata/58094559c47d323ebd000035/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleJoinAndRank.sql)|6 kyu|
 |Codewars|SQL|SQL Basics: Simple NULL Handling|[Problem](https://www.codewars.com/kata/5811315e04adbbdb5000050e/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleNullHandling.sql)|6 kyu|
