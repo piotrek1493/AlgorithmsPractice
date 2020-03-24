@@ -11,18 +11,22 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Bouncing Balls|[Problem](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/BouncingBalls.java)|6 kyu|
 |Codewars|Java|Write Number In Expanded Form|[Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)|[Solution](src/CodewarsSolutions/kata6/ExpandedForm.java)|6 kyu|
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
+|Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
+|Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|Solution(src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
 |Codewars|Java|Equal Sides Of An Array|[Problem](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/EqualSidesOfAnArray.java)|6 kyu|
 |Codewars|Java|Find The Missing Letter|[Problem](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheMissingLetter.java)|6 kyu|
 |Codewars|Java|Find The Parity Outlier|[Problem](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheParityOutlier.java)|6 kyu|
+|Codewars|Java|Find The Unique Number|[Problem](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheUniqueNumber.java)|6 kyu|
 |Codewars|Java|Highest Scoring Word|[Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)|[Solution](src/CodewarsSolutions/kata6/HighestScoringWord.java)|6 kyu|
 |Codewars|Java|Make The Deadfish Swim|[Problem](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/java)|[Solution](src/CodewarsSolutions/kata6/MakeTheDeadFishSwim.java)|6 kyu|
 |Codewars|Java|Meeting|[Problem](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/java)|[Solution](src/CodewarsSolutions/kata6/Meeting.java)|6 kyu|
 |Codewars|Java|Mexican Wave|[Problem](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java)|[Solution](src/CodewarsSolutions/kata6/MexicanWave.java)|6 kyu|
 |Codewars|Java|Multiples Of 3 And 5|[Problem](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java)|[Solution](src/CodewarsSolutions/kata6/MultiplesOf3And5.java)|6 kyu|
 |Codewars|Java|Stop gninnipS My sdroW!|[Problem](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)|[Solution](src/CodewarsSolutions/kata6/StopSpinningMyWords.java)|6 kyu|
+|Codewars|Java|Take a Ten Minute Walk|[Problem](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)|[Solution](src/CodewarsSolutions/kata6/TakeATenMinuteWalk.java)|6 kyu|
 |Codewars|Java|Transform To Prime|[Problem](https://www.codewars.com/kata/5a946d9fba1bb5135100007c/train/java)|[Solution](src/CodewarsSolutions/kata6/TransformToPrime.java)|6 kyu|
 |Codewars|Java|Where Is My Parent!?(cry)|[Problem](https://www.codewars.com/kata/58539230879867a8cd00011c/train/java)|[Solution](src/CodewarsSolutions/kata6/WhereIsMyParent.java)|6 kyu|
 |Codewars|Java|Which Are In?|[Problem](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/java)|[Solution](src/CodewarsSolutions/kata6/WhichAreIn.java)|6 kyu|
