@@ -12,7 +12,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Write Number In Expanded Form|[Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)|[Solution](src/CodewarsSolutions/kata6/ExpandedForm.java)|6 kyu|
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
 |Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
-|Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|Solution(src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
+|Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|[Solution](src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
