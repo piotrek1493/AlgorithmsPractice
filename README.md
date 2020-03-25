@@ -38,6 +38,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
 |Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
+|Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata5/DataReverse.java)|5 kyu|
