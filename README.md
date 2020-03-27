@@ -1,7 +1,7 @@
 ## AlgorithmsPractice
 
 A repo created to store and keep track of solutions of hackerrank.com/codewars.com
-challanges, mostly in Java with an occasional SQL query.
+challanges, mostly in Java with occasional SQL queries.
 
 You can find me on Codewars [here](https://www.codewars.com/users/piotrek1493).
 You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
