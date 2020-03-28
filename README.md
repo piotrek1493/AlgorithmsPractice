@@ -23,6 +23,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Highest Scoring Word|[Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)|[Solution](src/CodewarsSolutions/kata6/HighestScoringWord.java)|6 kyu|
 |Codewars|Java|Make The Deadfish Swim|[Problem](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/java)|[Solution](src/CodewarsSolutions/kata6/MakeTheDeadFishSwim.java)|6 kyu|
 |Codewars|Java|Meeting|[Problem](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/java)|[Solution](src/CodewarsSolutions/kata6/Meeting.java)|6 kyu|
+|Codewars|Java|Roman Numerals Encoder|[Problem](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/java)|[Solution](src/CodewarsSolutions/kata6/RomanNumeralsEncoder.java)|6 kyu|
 |Codewars|Java|Mexican Wave|[Problem](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java)|[Solution](src/CodewarsSolutions/kata6/MexicanWave.java)|6 kyu|
 |Codewars|Java|Multiples Of 3 And 5|[Problem](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java)|[Solution](src/CodewarsSolutions/kata6/MultiplesOf3And5.java)|6 kyu|
 |Codewars|Java|Stop gninnipS My sdroW!|[Problem](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)|[Solution](src/CodewarsSolutions/kata6/StopSpinningMyWords.java)|6 kyu|
