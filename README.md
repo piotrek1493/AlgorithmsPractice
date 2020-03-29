@@ -8,11 +8,25 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 
 |Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|
 ---|---|---|---|---|---
+|Codewars|Java|Strip Comments|[Problem](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/java)|[Solution](src/CodewarsSolutions/kata4/StripComments.java)|4 kyu|
+|Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
+|Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
+|Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
+|Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/PerfectPower.java)|5 kyu|
+|Codewars|Java|Josephus Survivor|[Problem](https://www.codewars.com/kata/555624b601231dc7a400017a/train/java)|[Solution](src/CodewarsSolutions/kata5/JosephusSurvivor.java)|5 kyu|
+|Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|5 kyu|
+|Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|5 kyu|
+|Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
+|Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|5 kyu|
+|Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
 |Codewars|Java|Bouncing Balls|[Problem](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/BouncingBalls.java)|6 kyu|
 |Codewars|Java|Write Number In Expanded Form|[Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)|[Solution](src/CodewarsSolutions/kata6/ExpandedForm.java)|6 kyu|
+|Codewars|Java|Backwards Read Primes|[Problem](https://www.codewars.com/kata/5539fecef69c483c5a000015/train/java)|[Solution](src/CodewarsSolutions/kata6/BackwardsReadPrimes.java)|6 kyu|
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
 |Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
 |Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|[Solution](src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
+|Codewars|Java|Buying a Car|[Problem](https://www.codewars.com/kata/554a44516729e4d80b000012/train/java)|[Solution](src/CodewarsSolutions/kata6/BuyingACar.java)|6 kyu|
+|Codewars|Java|Sum of Digits/Digital Root|[Problem](https://www.codewars.com/kata/541c8630095125aba6000c00/train/java)|[Solution](src/CodewarsSolutions/kata6/DigitalRoot.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
@@ -26,6 +40,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Roman Numerals Encoder|[Problem](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/java)|[Solution](src/CodewarsSolutions/kata6/RomanNumeralsEncoder.java)|6 kyu|
 |Codewars|Java|Mexican Wave|[Problem](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java)|[Solution](src/CodewarsSolutions/kata6/MexicanWave.java)|6 kyu|
 |Codewars|Java|Multiples Of 3 And 5|[Problem](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java)|[Solution](src/CodewarsSolutions/kata6/MultiplesOf3And5.java)|6 kyu|
+|Codewars|Java|Split Strings|[Problem](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/java)|[Solution](src/CodewarsSolutions/kata6/SplitStrings.java)|6 kyu|
 |Codewars|Java|Stop gninnipS My sdroW!|[Problem](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)|[Solution](src/CodewarsSolutions/kata6/StopSpinningMyWords.java)|6 kyu|
 |Codewars|Java|Take a Ten Minute Walk|[Problem](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)|[Solution](src/CodewarsSolutions/kata6/TakeATenMinuteWalk.java)|6 kyu|
 |Codewars|Java|Transform To Prime|[Problem](https://www.codewars.com/kata/5a946d9fba1bb5135100007c/train/java)|[Solution](src/CodewarsSolutions/kata6/TransformToPrime.java)|6 kyu|
@@ -41,16 +56,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
 |Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
-|Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
-|Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata5/DataReverse.java)|5 kyu|
-|Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
-|Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
-|Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/PerfectPower.java)|5 kyu|
-|Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|5 kyu|
-|Codewars|Java|Scramblies|[Problem](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)|[Solution](src/CodewarsSolutions/kata5/Scramblies.java)|5 kyu|
-|Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
-|Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|5 kyu|
-|Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
+|Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata6/DataReverse.java)|6 kyu|
 |Hackerrank|Java|Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](src/HackerrankSolutions/Easy/FlatlandSpaceStations.java)|Easy|
 |Hackerrank|Java|Ice Cream Parlor|[Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](src/HackerrankSolutions/Easy/IceCreamParlor.java)|Easy|
 |Hackerrank|Java|Gemstones|[Problem](https://www.hackerrank.com/challenges/gem-stones/problem)|[Solution](src/HackerrankSolutions/Easy/Gemstones.java)|Easy|
