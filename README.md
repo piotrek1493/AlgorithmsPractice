@@ -19,17 +19,21 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Integers: Recreation One|[Problem](https://www.codewars.com/kata/55aa075506463dac6600010d/train/java)|[Solution](src/CodewarsSolutions/kata5/SumSquaredDivisors.java)|5 kyu|
 |Codewars|Java|Simple Pig Latin|[Problem](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/java)|[Solution](src/CodewarsSolutions/kata5/SimplePigLatin.java)|5 kyu|
 |Codewars|Java|Maximum Subarray Sum|[Problem](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/solutions/java)|[Solution](src/CodewarsSolutions/kata5/MaximumSubarraySum.java)|5 kyu|
+|Codewars|Java|Bit Counting|[Problem](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/java)|[Solution](src/CodewarsSolutions/kata6/BitCounting.java)|6 kyu|
 |Codewars|Java|Bouncing Balls|[Problem](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/BouncingBalls.java)|6 kyu|
+|Codewars|Java|Counting Duplicates|[Problem](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java)|[Solution](src/CodewarsSolutions/kata6/CountingDuplicates.java)|6 kyu|
 |Codewars|Java|Write Number In Expanded Form|[Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)|[Solution](src/CodewarsSolutions/kata6/ExpandedForm.java)|6 kyu|
 |Codewars|Java|Backwards Read Primes|[Problem](https://www.codewars.com/kata/5539fecef69c483c5a000015/train/java)|[Solution](src/CodewarsSolutions/kata6/BackwardsReadPrimes.java)|6 kyu|
 |Codewars|Java|Banker's Plan|[Problem](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/train/java)|[Solution](src/CodewarsSolutions/kata6/BankersPlan.java)|6 kyu|
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
+|Codewars|Java|Consonant Value|[Problem](https://www.codewars.com/kata/59c633e7dcc4053512000073/train/java)|[Solution](src/CodewarsSolutions/kata6/ConsonantValue.java)|6 kyu|
 |Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
 |Codewars|Java|Delete Occurrences of an Element if it Occurs More Than n Times|[Problem](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/java)|[Solution](src/CodewarsSolutions/kata6/DeleteOccurrences.java)|6 kyu|
 |Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|[Solution](src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
 |Codewars|Java|Buying a Car|[Problem](https://www.codewars.com/kata/554a44516729e4d80b000012/train/java)|[Solution](src/CodewarsSolutions/kata6/BuyingACar.java)|6 kyu|
 |Codewars|Java|Sum of Digits/Digital Root|[Problem](https://www.codewars.com/kata/541c8630095125aba6000c00/train/java)|[Solution](src/CodewarsSolutions/kata6/DigitalRoot.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
+|Codewars|Java|Decode the Morse Code|[Problem](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/java)|[Solution](src/CodewarsSolutions/kata6/DecodeTheMorseCode.java)|6 kyu|
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
 |Codewars|Java|Duplicate Encoder|[Problem](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)|[Solution](src/CodewarsSolutions/kata6/DuplicateEncoder.java)|6 kyu|
@@ -37,6 +41,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Equal Sides Of An Array|[Problem](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/EqualSidesOfAnArray.java)|6 kyu|
 |Codewars|Java|Find The Missing Letter|[Problem](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheMissingLetter.java)|6 kyu|
 |Codewars|Java|Find The Parity Outlier|[Problem](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheParityOutlier.java)|6 kyu|
+|Codewars|Java|Find the Odd Int|[Problem](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheOddInt.java)|6 kyu|
 |Codewars|Java|Find The Unique Number|[Problem](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheUniqueNumber.java)|6 kyu|
 |Codewars|Java|Highest Scoring Word|[Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)|[Solution](src/CodewarsSolutions/kata6/HighestScoringWord.java)|6 kyu|
 |Codewars|Java|Make The Deadfish Swim|[Problem](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/java)|[Solution](src/CodewarsSolutions/kata6/MakeTheDeadFishSwim.java)|6 kyu|
@@ -53,11 +58,14 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Your Order, Please|[Problem](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)|[Solution](src/CodewarsSolutions/kata6/YourOrderPlease.java)|6 kyu|
 |Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](src/CodewarsSolutions/kata6/EnglishBeggars.java)|6 kyu|
 |Codewars|Java|Persistent Bugger|[Problem](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java)|[Solution](src/CodewarsSolutions/kata6/PersistentBugger.java)|6 kyu|
+|Codewars|Java|The Deaf Rats of Hamelin|[Problem](https://www.codewars.com/kata/598106cb34e205e074000031/train/java)|[Solution](src/CodewarsSolutions/kata6/TheDeafRatsOfHamelin.java)|6 kyu|
 |Codewars|Java|Playing with digits|[Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithDigits.java)|6 kyu|
 |Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
 |Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
 |Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
+|Codewars|Java|Primorial of a Number|[Problem](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java)|[Solution](src/CodewarsSolutions/kata6/PrimorialOfANumber.java)|6 kyu|
+|Codewars|Java|Sums of Parts|[Problem](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/java)|[Solution](src/CodewarsSolutions/kata6/SumsOfParts.java)|6 kyu|
 |Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata6/DataReverse.java)|6 kyu|
