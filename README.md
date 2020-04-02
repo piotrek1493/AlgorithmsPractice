@@ -30,6 +30,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
 |Codewars|Java|Delete Occurrences of an Element if it Occurs More Than n Times|[Problem](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/java)|[Solution](src/CodewarsSolutions/kata6/DeleteOccurrences.java)|6 kyu|
 |Codewars|Java|Convert String to Camel Case|[Problem](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)|[Solution](src/CodewarsSolutions/kata6/ConvertStringToCamelCase.java)|6 kyu|
+|Codewars|Java|Consecutive Strings|[Problem](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java)|[Solution](src/CodewarsSolutions/kata6/ConsecutiveStrings.java)|6 kyu|
 |Codewars|Java|Buying a Car|[Problem](https://www.codewars.com/kata/554a44516729e4d80b000012/train/java)|[Solution](src/CodewarsSolutions/kata6/BuyingACar.java)|6 kyu|
 |Codewars|Java|Sum of Digits/Digital Root|[Problem](https://www.codewars.com/kata/541c8630095125aba6000c00/train/java)|[Solution](src/CodewarsSolutions/kata6/DigitalRoot.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
