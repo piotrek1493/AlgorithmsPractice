@@ -40,6 +40,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Don't Eat The Last Cake!|[Problem](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d/train/java)|[Solution](src/CodewarsSolutions/kata6/Player.java)|6 kyu|
 |Codewars|Java|Detect Pangram|[Problem](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)|[Solution](src/CodewarsSolutions/kata6/DetectPangram.java)|6 kyu|
 |Codewars|Java|Duplicate Encoder|[Problem](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)|[Solution](src/CodewarsSolutions/kata6/DuplicateEncoder.java)|6 kyu|
+|Codewars|Java|Extract File Name|[Problem](https://www.codewars.com/kata/597770e98b4b340e5b000071/train/java)|[Solution](src/CodewarsSolutions/kata6/ExtractFileName.java)|6 kyu|
 |Codewars|Java|How Much?|[Problem](https://www.codewars.com/kata/55b4d87a3766d9873a0000d4/train/java)|[Solution](src/CodewarsSolutions/kata6/HowMuch.java)|6 kyu|
 |Codewars|Java|Equal Sides Of An Array|[Problem](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/EqualSidesOfAnArray.java)|6 kyu|
 |Codewars|Java|Find The Missing Letter|[Problem](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheMissingLetter.java)|6 kyu|
@@ -72,9 +73,14 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
 |Codewars|Java|Primorial of a Number|[Problem](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java)|[Solution](src/CodewarsSolutions/kata6/PrimorialOfANumber.java)|6 kyu|
 |Codewars|Java|Sums of Parts|[Problem](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/java)|[Solution](src/CodewarsSolutions/kata6/SumsOfParts.java)|6 kyu|
+|Codewars|Java|Rainfall|[Problem](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006/train/java)|[Solution](src/CodewarsSolutions/kata6/Rainfall.java)|6 kyu|
 |Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata6/DataReverse.java)|6 kyu|
+|Codewars|Java|Find the Next Perfect Square!|[Problem](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/java)|[Solution](src/CodewarsSolutions/kata7/FindTheNextPerfectSquare.java)|7 kyu|
+|Codewars|Java|Simple Fun #74: Growing Plant|[Problem](https://www.codewars.com/kata/58941fec8afa3618c9000184/train/java)|[Solution](src/CodewarsSolutions/kata7/SimpleFunGrowingPlant.java)|7 kyu|
+|Codewars|Java|Vowels Count|[Problem](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java)|[Solution](src/CodewarsSolutions/kata7/VowelCount.java)|7 kyu|
+|Codewars|Java|Row Weights|[Problem](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/java)|[Solution](src/CodewarsSolutions/kata7/RowWeights.java)|7 kyu|
 |Hackerrank|Java|Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](src/HackerrankSolutions/Easy/FlatlandSpaceStations.java)|Easy|
 |Hackerrank|Java|Ice Cream Parlor|[Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](src/HackerrankSolutions/Easy/IceCreamParlor.java)|Easy|
 |Hackerrank|Java|Gemstones|[Problem](https://www.hackerrank.com/challenges/gem-stones/problem)|[Solution](src/HackerrankSolutions/Easy/Gemstones.java)|Easy|
@@ -91,6 +97,10 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Hackerrank|Java|Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](src/HackerrankSolutions/Medium/Encryption.java)|Medium|
 |Hackerrank|Java|Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](src/HackerrankSolutions/Medium/ExtraLongFactorials.java)|Medium|
 |Hackerrank|Java|The Time In Words|[Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[Solution](src/HackerrankSolutions/Medium/TheTimeInWords.java)|Medium|
+|Codewars|SQL|Challenge: Two actors who cast together the most|[Problem](https://www.codewars.com/kata/5818bde9559ff58bd90004a2/train/sql)|[Solution](src/CodewarsSolutions/kata4/TwoActorsWhoCastTogetherTheMost.sql)|4 kyu|
+|Codewars|SQL|SQL Basics: GROUP BY Day|[Problem](https://www.codewars.com/kata/5811597e9d278beb04000038/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsGroupByDay.sql)|5 kyu|
+|Codewars|SQL|SQL Basics: Simple VIEW|[Problem](https://www.codewars.com/kata/5811527d9d278b242f000006/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsSimpleView.sql)|5 kyu|
+|Codewars|SQL|SQL Statistics: MIN, MEDIAN, MAX|[Problem](https://www.codewars.com/kata/58167fa1f544130dcf000317/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLStatisticsMinMedianMax.sql)|5 kyu|
 |Codewars|SQL|SQL Basics: Simple HAVING|[Problem](https://www.codewars.com/kata/58164ddf890632ce00000220/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleHaving.sql)|6 kyu|
 |Codewars|SQL|SQL Basics: Simple IN|[Problem](https://www.codewars.com/kata/58113c03009b4fcc66000d29/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleIn.sql)|6 kyu|
 |Codewars|SQL|SQL Basics: Simple JOIN and RANK|[Problem](https://www.codewars.com/kata/58094559c47d323ebd000035/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLBasicsSimpleJoinAndRank.sql)|6 kyu|
@@ -101,8 +111,5 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|SQL|SQL: Conditional Count|[Problem](https://www.codewars.com/kata/5816a3ecf54413a113000074/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLConditionalCount.sql)|6 kyu|
 |Codewars|SQL|SQL: REGEX AlphaNumeric Split|[Problem](https://www.codewars.com/kata/594257d4db68b6e99200002c/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLRegexAlphaNumericSplit.sql)|6 kyu|
 |Codewars|SQL|SQL: Select Prime Numbers|[Problem](https://www.codewars.com/kata/59be9f425227ddd60c00003b/train/sql)|[Solution](src/CodewarsSolutions/kata6/SQLSelectPrimeNumbers.sql)|6 kyu|
-|Codewars|SQL|SQL Basics: GROUP BY Day|[Problem](https://www.codewars.com/kata/5811597e9d278beb04000038/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsGroupByDay.sql)|5 kyu|
-|Codewars|SQL|SQL Basics: Simple VIEW|[Problem](https://www.codewars.com/kata/5811527d9d278b242f000006/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLBasicsSimpleView.sql)|5 kyu|
-|Codewars|SQL|SQL Statistics: MIN, MEDIAN, MAX|[Problem](https://www.codewars.com/kata/58167fa1f544130dcf000317/train/sql)|[Solution](src/CodewarsSolutions/kata5/SQLStatisticsMinMedianMax.sql)|5 kyu|
 
 
