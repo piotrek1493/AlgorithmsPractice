@@ -26,6 +26,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Write Number In Expanded Form|[Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)|[Solution](src/CodewarsSolutions/kata6/ExpandedForm.java)|6 kyu|
 |Codewars|Java|Backwards Read Primes|[Problem](https://www.codewars.com/kata/5539fecef69c483c5a000015/train/java)|[Solution](src/CodewarsSolutions/kata6/BackwardsReadPrimes.java)|6 kyu|
 |Codewars|Java|Banker's Plan|[Problem](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/train/java)|[Solution](src/CodewarsSolutions/kata6/BankersPlan.java)|6 kyu|
+|Codewars|Java|Break camelCase|[Problem](https://www.codewars.com/kata/5208f99aee097e6552000148/train/java)|[Solution](src/CodewarsSolutions/kata6/BreakCamelCase.java)|6 kyu|
 |Codewars|Java|Create Phone Number|[Problem](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)|[Solution](src/CodewarsSolutions/kata6/CreateNumber.java)|6 kyu|
 |Codewars|Java|Consonant Value|[Problem](https://www.codewars.com/kata/59c633e7dcc4053512000073/train/java)|[Solution](src/CodewarsSolutions/kata6/ConsonantValue.java)|6 kyu|
 |Codewars|Java|Count The Smiley Faces|[Problem](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)|[Solution](src/CodewarsSolutions/kata6/CountTheSmileyFaces.java)|6 kyu|
