@@ -39,7 +39,7 @@ import java.util.Arrays;
 public class GapInPrimes {
     public static long[] gap(int g, long m, long n) {
         for(long i = m; i <= n - g; i++) {
-            if(isPrime(i) && (isPrime(i + g) && i + g <= n)) {
+            if(isPrime(i) && isPrime(i + g)) {
                 boolean found = false;
                 for(long j = i + 1; j < i + g; j++) {
                     if(isPrime(j)) {
