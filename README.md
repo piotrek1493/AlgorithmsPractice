@@ -13,6 +13,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
 |Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
 |Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
+|Codewars|Java|Gap in Primes|[Problem](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/train/java)|[Solution](src/CodewarsSolutions/kata5/GapInPrimes.java)|5 kyu|
 |Codewars|Java|What's a Perfect Power anyway?|[Problem](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/java)|[Solution](src/CodewarsSolutions/kata5/PerfectPower.java)|5 kyu|
 |Codewars|Java|Josephus Survivor|[Problem](https://www.codewars.com/kata/555624b601231dc7a400017a/train/java)|[Solution](src/CodewarsSolutions/kata5/JosephusSurvivor.java)|5 kyu|
 |Codewars|Java|Is My Friend Cheating?|[Problem](https://www.codewars.com/kata/5547cc7dcad755e480000004/train/java)|[Solution](src/CodewarsSolutions/kata5/RemovedNumbers.java)|5 kyu|
