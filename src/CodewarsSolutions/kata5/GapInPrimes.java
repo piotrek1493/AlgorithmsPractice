@@ -54,7 +54,7 @@ public class GapInPrimes {
             }
         }
 
-        return new long[0];
+        return null;
     }
 
     public static boolean isPrime(long num) {
