@@ -36,6 +36,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Buying a Car|[Problem](https://www.codewars.com/kata/554a44516729e4d80b000012/train/java)|[Solution](src/CodewarsSolutions/kata6/BuyingACar.java)|6 kyu|
 |Codewars|Java|Convert Integer to Whitespace Format|[Problem](https://www.codewars.com/kata/55b350026cc02ac1a7000032/train/java)|[Solution](src/CodewarsSolutions/kata6/IntegerToWhitespace.java)|6 kyu|
 |Codewars|Java|Evil Autocorrect Prank|[Problem](https://www.codewars.com/kata/538ae2eb7a4ba8c99b000439/train/java)|[Solution](src/CodewarsSolutions/kata6/EvilAutocorrectPrank.java)|6 kyu|
+|Codewars|Java|Hidden "Cubic" Numbers|[Problem](https://www.codewars.com/kata/55031bba8cba40ada90011c4/train/java)|[Solution](src/CodewarsSolutions/kata6/HiddenCubicNumbers.java)|6 kyu|
 |Codewars|Java|Sum of Digits/Digital Root|[Problem](https://www.codewars.com/kata/541c8630095125aba6000c00/train/java)|[Solution](src/CodewarsSolutions/kata6/DigitalRoot.java)|6 kyu|
 |Codewars|Java|Unwanted Dollars|[Problem](https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java)|[Solution](src/CodewarsSolutions/kata6/UnwantedDollars.java)|6 kyu|
 |Codewars|Java|Decode the Morse Code|[Problem](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/java)|[Solution](src/CodewarsSolutions/kata6/DecodeTheMorseCode.java)|6 kyu|
