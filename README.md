@@ -11,6 +11,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|All Balanced Parentheses|[Problem](https://www.codewars.com/kata/5426d7a2c2c7784365000783/train/java)|[Solution](src/CodewarsSolutions/kata4/AllBalancedParentheses.java)|4 kyu|
 |Codewars|Java|Strip Comments|[Problem](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/java)|[Solution](src/CodewarsSolutions/kata4/StripComments.java)|4 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
+|Codewars|Java|Directions Reduction|[Problem](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/java)|[Solution](src/CodewarsSolutions/kata5/DirectionsReduction.java)|5 kyu|
 |Codewars|Java|Double Cola|[Problem](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/train/java)|[Solution](src/CodewarsSolutions/kata5/DoubleCola.java)|5 kyu|
 |Codewars|Java|Human Readable Time|[Problem](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/java)|[Solution](src/CodewarsSolutions/kata5/HumanReadableTime.java)|5 kyu|
 |Codewars|Java|Gap in Primes|[Problem](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/train/java)|[Solution](src/CodewarsSolutions/kata5/GapInPrimes.java)|5 kyu|
