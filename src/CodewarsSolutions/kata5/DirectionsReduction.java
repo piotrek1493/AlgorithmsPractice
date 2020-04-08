@@ -67,5 +67,7 @@ public class DirectionsReduction {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(dirReduc(new String[]{"NORTH", "SOUTH", "EAST", "WEST"})));
+        System.out.println(Arrays.toString(dirReduc(new String[]{"NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"})));
+        System.out.println(Arrays.toString(dirReduc(new String[]{"NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH"})));
     }
 }
