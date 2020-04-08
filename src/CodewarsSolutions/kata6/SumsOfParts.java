@@ -38,7 +38,7 @@ public class SumsOfParts {
         Collections.reverse(list);
         List<Integer> result = new ArrayList<>();
         result.add(0);
-        list.stream().forEach(i -> result.add(result.get(result.size() - 1) + i));
+        list.forEach(i -> result.add(result.get(result.size() - 1) + i));
         Collections.reverse(result);
         return result.stream().mapToInt(i -> i).toArray();
     }

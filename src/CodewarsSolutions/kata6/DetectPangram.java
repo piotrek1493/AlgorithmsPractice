@@ -15,18 +15,13 @@ public class DetectPangram {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
         sentence = sentence.toLowerCase().replaceAll(" ", "");
         List<Character> list = sentence.chars().mapToObj(c -> (char)c).collect(Collectors.toList());
-        if(list.containsAll(alphabet.chars().mapToObj(c -> (char)c).collect(Collectors.toList()))) {
-            return true;
-        }
-        return false;
+        return list.containsAll(alphabet.chars().mapToObj(c -> (char) c).collect(Collectors.toList()));
     }
 
     public static void main(String[] args) {
-
         String test1 = "The quick brown fox jumps over the lazy dog";
         String test2 = "You shall not pass!";
         System.out.println(check(test1));
         System.out.println(check(test2));
-
     }
 }

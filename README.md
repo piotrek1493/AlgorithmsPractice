@@ -53,6 +53,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Find The Unique Number|[Problem](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheUniqueNumber.java)|6 kyu|
 |Codewars|Java|Highest Scoring Word|[Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)|[Solution](src/CodewarsSolutions/kata6/HighestScoringWord.java)|6 kyu|
 |Codewars|Java|Is a Number Prime?|[Problem](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/java)|[Solution](src/CodewarsSolutions/kata6/IsANumberPrime.java)|6 kyu|
+|Codewars|Java|L3375p34k|[Problem](https://www.codewars.com/kata/543bfbecdef6345f52000e4d/train/java)|[Solution](src/CodewarsSolutions/kata6/L3375p34k.java)|6 kyu|
 |Codewars|Java|Longest Palindrome|[Problem](https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/java)|[Solution](src/CodewarsSolutions/kata6/LongestPalindrome.java)|6 kyu|
 |Codewars|Java|Make The Deadfish Swim|[Problem](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/java)|[Solution](src/CodewarsSolutions/kata6/MakeTheDeadFishSwim.java)|6 kyu|
 |Codewars|Java|Meeting|[Problem](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/java)|[Solution](src/CodewarsSolutions/kata6/Meeting.java)|6 kyu|
@@ -78,11 +79,13 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Primorial of a Number|[Problem](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java)|[Solution](src/CodewarsSolutions/kata6/PrimorialOfANumber.java)|6 kyu|
 |Codewars|Java|Sums of Parts|[Problem](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/java)|[Solution](src/CodewarsSolutions/kata6/SumsOfParts.java)|6 kyu|
 |Codewars|Java|Rainfall|[Problem](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006/train/java)|[Solution](src/CodewarsSolutions/kata6/Rainfall.java)|6 kyu|
+|Codewars|Java|Valid Phone Number|[Problem](https://www.codewars.com/kata/525f47c79f2f25a4db000025/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidPhoneNumber.java)|6 kyu|
 |Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata6/DataReverse.java)|6 kyu|
 |Codewars|Java|Find the Next Perfect Square!|[Problem](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/java)|[Solution](src/CodewarsSolutions/kata7/FindTheNextPerfectSquare.java)|7 kyu|
 |Codewars|Java|Simple Fun #74: Growing Plant|[Problem](https://www.codewars.com/kata/58941fec8afa3618c9000184/train/java)|[Solution](src/CodewarsSolutions/kata7/SimpleFunGrowingPlant.java)|7 kyu|
+|Codewars|Java|Responsible Drinking|[Problem](https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/java)|[Solution](src/CodewarsSolutions/kata7/ResponsibleDrinking.java)|7 kyu|
 |Codewars|Java|Vowels Count|[Problem](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java)|[Solution](src/CodewarsSolutions/kata7/VowelCount.java)|7 kyu|
 |Codewars|Java|Row Weights|[Problem](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/java)|[Solution](src/CodewarsSolutions/kata7/RowWeights.java)|7 kyu|
 |Hackerrank|Java|Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](src/HackerrankSolutions/Easy/FlatlandSpaceStations.java)|Easy|

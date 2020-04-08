@@ -34,9 +34,9 @@ public class DuplicateEncoder {
         }
 
         for (int i = 0; i < word.length(); i++) {
-            for (Map.Entry entry : map.entrySet()) {
-                if (word.charAt(i) == (char) entry.getKey()) {
-                    if ((int) entry.getValue() == 1) {
+            for (Map.Entry<Character, Integer> entry : map.entrySet()) {
+                if (word.charAt(i) == entry.getKey()) {
+                    if (entry.getValue() == 1) {
                         result.append("(");
                     } else {
                         result.append(")");

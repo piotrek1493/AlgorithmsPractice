@@ -30,7 +30,7 @@ gap(4, 130, 200) --> [163, 167] or (163, 167) or {163, 167}
 ([193, 197] is also such a 4-gap primes between 130 and 200 but it's not the first pair)
 
 gap(6,100,110) --> nil or {0, 0} : between 100 and 110 we have 101, 103, 107, 109 but 101-107is not a 6-gap because
-there is 103in between and 103-109is not a 6-gap because there is 107in between.
+there is 103in between and 103-109is not a 6-gap because there is 107 in between.
  */
 
 import java.math.BigInteger;
