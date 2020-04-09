@@ -48,6 +48,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Extract File Name|[Problem](https://www.codewars.com/kata/597770e98b4b340e5b000071/train/java)|[Solution](src/CodewarsSolutions/kata6/ExtractFileName.java)|6 kyu|
 |Codewars|Java|How Much?|[Problem](https://www.codewars.com/kata/55b4d87a3766d9873a0000d4/train/java)|[Solution](src/CodewarsSolutions/kata6/HowMuch.java)|6 kyu|
 |Codewars|Java|Equal Sides Of An Array|[Problem](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)|[Solution](src/CodewarsSolutions/kata6/EqualSidesOfAnArray.java)|6 kyu|
+|Codewars|Java|Find Next Higher Number With Same Bits|[Problem](https://www.codewars.com/kata/56bdd0aec5dc03d7780010a5/train/java)|[Solution](src/CodewarsSolutions/kata6/FindNextHigherNumberWithSameBits.java)|6 kyu|
 |Codewars|Java|Find The Missing Letter|[Problem](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheMissingLetter.java)|6 kyu|
 |Codewars|Java|Find The Parity Outlier|[Problem](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheParityOutlier.java)|6 kyu|
 |Codewars|Java|Find the Odd Int|[Problem](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java)|[Solution](src/CodewarsSolutions/kata6/FindTheOddInt.java)|6 kyu|
