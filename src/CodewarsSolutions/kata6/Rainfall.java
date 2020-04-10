@@ -50,9 +50,9 @@ public class Rainfall {
         String[] townsData = strng.split("\n");
         List<Double> weatherData = new ArrayList<>();
 
-        for (int i = 0; i < townsData.length; i++) {
-            if (townsData[i].substring(0, town.length()).equals(town)) {
-                weatherData = getData(townsData[i]);
+        for (String townsDatum : townsData) {
+            if (townsDatum.substring(0, town.length()).equals(town)) {
+                weatherData = getData(townsDatum);
                 if (!weatherData.isEmpty()) {
                     break;
                 }
@@ -68,9 +68,9 @@ public class Rainfall {
         String[] townsData = strng.split("\n");
         List<Double> weatherData = new ArrayList<>();
 
-        for (int i = 0; i < townsData.length; i++) {
-            if (townsData[i].substring(0, town.length()).equals(town)) {
-                weatherData = getData(townsData[i]);
+        for (String townsDatum : townsData) {
+            if (townsDatum.substring(0, town.length()).equals(town)) {
+                weatherData = getData(townsDatum);
                 if (!weatherData.isEmpty()) {
                     break;
                 }
@@ -81,8 +81,8 @@ public class Rainfall {
 
         double mean = weatherData.stream().mapToDouble(i -> i).sum() / weatherData.size();
         double numerator = 0;
-        for (int i = 0; i < weatherData.size(); i++) {
-            numerator += Math.pow(weatherData.get(i) - mean, 2);
+        for (Double weatherDatum : weatherData) {
+            numerator += Math.pow(weatherDatum - mean, 2);
         }
 
         return numerator / weatherData.size();

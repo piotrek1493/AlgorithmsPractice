@@ -78,10 +78,12 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Dead Ants|[Problem](https://www.codewars.com/kata/57d5e850bfcdc545870000b7/train/java)|[Solution](src/CodewarsSolutions/kata6/DeadAnts.java)|6 kyu|
 |Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
+|Codewars|Java|The Supermarket Queue|[Problem](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/java)|[Solution](src/CodewarsSolutions/kata6/TheSupermarketQueue.java)|6 kyu|
 |Codewars|Java|Primorial of a Number|[Problem](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java)|[Solution](src/CodewarsSolutions/kata6/PrimorialOfANumber.java)|6 kyu|
 |Codewars|Java|Sums of Parts|[Problem](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/java)|[Solution](src/CodewarsSolutions/kata6/SumsOfParts.java)|6 kyu|
 |Codewars|Java|Rainfall|[Problem](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006/train/java)|[Solution](src/CodewarsSolutions/kata6/Rainfall.java)|6 kyu|
 |Codewars|Java|Valid Phone Number|[Problem](https://www.codewars.com/kata/525f47c79f2f25a4db000025/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidPhoneNumber.java)|6 kyu|
+|Codewars|Java|Vasya - Clerk|[Problem](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/java)|[Solution](src/CodewarsSolutions/kata6/VasyaClerk.java)|6 kyu|
 |Codewars|Java|Who Likes It?|[Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)|[Solution](src/CodewarsSolutions/kata6/WhoLikesIt.java)|6 kyu|
 |Codewars|Java|Two Sum|[Problem](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)|[Solution](src/CodewarsSolutions/kata6/TwoSum.java)|6 kyu|
 |Codewars|Java|Data Reverse|[Problem](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)|[Solution](src/CodewarsSolutions/kata6/DataReverse.java)|6 kyu|
