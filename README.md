@@ -63,6 +63,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Mexican Wave|[Problem](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java)|[Solution](src/CodewarsSolutions/kata6/MexicanWave.java)|6 kyu|
 |Codewars|Java|Multiples Of 3 And 5|[Problem](https://www.codewars.com/kata/514b92a657cdc65150000006/train/java)|[Solution](src/CodewarsSolutions/kata6/MultiplesOf3And5.java)|6 kyu|
 |Codewars|Java|Split Strings|[Problem](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/java)|[Solution](src/CodewarsSolutions/kata6/SplitStrings.java)|6 kyu|
+|Codewars|Java|Sort The Odd|[Problem](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java)|[Solution](src/CodewarsSolutions/kata6/SortTheOdd.java)|6 kyu|
 |Codewars|Java|Stop gninnipS My sdroW!|[Problem](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)|[Solution](src/CodewarsSolutions/kata6/StopSpinningMyWords.java)|6 kyu|
 |Codewars|Java|Take a Ten Minute Walk|[Problem](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)|[Solution](src/CodewarsSolutions/kata6/TakeATenMinuteWalk.java)|6 kyu|
 |Codewars|Java|Transform To Prime|[Problem](https://www.codewars.com/kata/5a946d9fba1bb5135100007c/train/java)|[Solution](src/CodewarsSolutions/kata6/TransformToPrime.java)|6 kyu|
