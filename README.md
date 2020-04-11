@@ -73,6 +73,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|English Beggars|[Problem](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)|[Solution](src/CodewarsSolutions/kata6/EnglishBeggars.java)|6 kyu|
 |Codewars|Java|Format Words into a Sentence|[Problem](https://www.codewars.com/kata/51689e27fe9a00b126000004/train/java)|[Solution](src/CodewarsSolutions/kata6/FormatWordsIntoASentence.java)|6 kyu|
 |Codewars|Java|Persistent Bugger|[Problem](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java)|[Solution](src/CodewarsSolutions/kata6/PersistentBugger.java)|6 kyu|
+|Codewars|Java|Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!|[Problem](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/java)|[Solution](src/CodewarsSolutions/kata6/SumDigPow.java)|6 kyu|
 |Codewars|Java|The Deaf Rats of Hamelin|[Problem](https://www.codewars.com/kata/598106cb34e205e074000031/train/java)|[Solution](src/CodewarsSolutions/kata6/TheDeafRatsOfHamelin.java)|6 kyu|
 |Codewars|Java|Playing with digits|[Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithDigits.java)|6 kyu|
 |Codewars|Java|Validate Credit Card Number|[Problem](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2/train/java)|[Solution](src/CodewarsSolutions/kata6/ValidateCreditCardNumber.java)|6 kyu|
@@ -80,6 +81,7 @@ You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 |Codewars|Java|Backspaces In String|[Problem](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/java)|[Solution](src/CodewarsSolutions/kata6/BackspacesInString.java)|6 kyu|
 |Codewars|Java|A Rule of Divisibility by 13|[Problem](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/java)|[Solution](src/CodewarsSolutions/kata6/Thirteen.java)|6 kyu|
 |Codewars|Java|The Supermarket Queue|[Problem](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/java)|[Solution](src/CodewarsSolutions/kata6/TheSupermarketQueue.java)|6 kyu|
+|Codewars|Java|Playing With Passphrases|[Problem](https://www.codewars.com/kata/559536379512a64472000053/train/java)|[Solution](src/CodewarsSolutions/kata6/PlayingWithPassphrases.java)|6 kyu|
 |Codewars|Java|Primorial of a Number|[Problem](https://www.codewars.com/kata/5a99a03e4a6b34bb3c000124/train/java)|[Solution](src/CodewarsSolutions/kata6/PrimorialOfANumber.java)|6 kyu|
 |Codewars|Java|Sums of Parts|[Problem](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/java)|[Solution](src/CodewarsSolutions/kata6/SumsOfParts.java)|6 kyu|
 |Codewars|Java|Rainfall|[Problem](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006/train/java)|[Solution](src/CodewarsSolutions/kata6/Rainfall.java)|6 kyu|
