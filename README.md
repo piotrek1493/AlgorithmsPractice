@@ -1,13 +1,19 @@
 ## AlgorithmsPractice
 
-A repo created to store and keep track of solutions of hackerrank.com/codewars.com
+A repo created to store and keep track of solutions of hackerrank.com/codewars.com/leetcode.com
 challanges, mostly in Java with occasional SQL queries.
 
 You can find me on Codewars [here](https://www.codewars.com/users/piotrek1493).
 You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
+You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 
-|Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|
+|Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics|
 ---|---|---|---|---|---
+|Leetcode|Java|1304. Find N Unique Integers Sum up to Zero|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](src/LeetcodeSolutions/Easy/FindUniqueIntegersSum.java)|Easy|Array|
+|Leetcode|Java|705. Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/)|[Solution](src/LeetcodeSolutions/Easy/MyHashSet.java)|Easy|Hash Table, Design|
+|Leetcode|Java|198. House Robber|[Problem](https://leetcode.com/problems/house-robber/)|[Solution](src/LeetcodeSolutions/Easy/HouseRobber.java)|Easy|Dynamic Programming|
+|Leetcode|Java|1046. Last Stone Weight|[Problem](https://leetcode.com/problems/last-stone-weight/)|[Solution](src/LeetcodeSolutions/Easy/LastStoneWeight.java)|Easy|Heap, Greedy Algorithms|
+|Leetcode|Java|1331. Rank Transform of an Array|[Problem](https://leetcode.com/problems/rank-transform-of-an-array/)|[Solution](src/LeetcodeSolutions/Easy/RankTransformOfAnArray.java)|Easy|Array|
 |Codewars|Java|All Balanced Parentheses|[Problem](https://www.codewars.com/kata/5426d7a2c2c7784365000783/train/java)|[Solution](src/CodewarsSolutions/kata4/AllBalancedParentheses.java)|4 kyu|
 |Codewars|Java|Strip Comments|[Problem](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/java)|[Solution](src/CodewarsSolutions/kata4/StripComments.java)|4 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
