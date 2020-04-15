@@ -7,7 +7,7 @@ You can find me on Codewars [here](https://www.codewars.com/users/piotrek1493).
 You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
 You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 
-|Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics|
+|Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics
 ---|---|---|---|---|---
 |Leetcode|Java|1304. Find N Unique Integers Sum up to Zero|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](src/LeetcodeSolutions/Easy/FindUniqueIntegersSum.java)|Easy|Array|
 |Leetcode|Java|705. Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/)|[Solution](src/LeetcodeSolutions/Easy/MyHashSet.java)|Easy|Hash Table, Design|
