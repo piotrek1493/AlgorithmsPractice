@@ -12,6 +12,7 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|1304. Find N Unique Integers Sum up to Zero|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](src/LeetcodeSolutions/Easy/FindUniqueIntegersSum.java)|Easy|Array|
 |Leetcode|Java|705. Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/)|[Solution](src/LeetcodeSolutions/Easy/MyHashSet.java)|Easy|Hash Table, Design|
 |Leetcode|Java|198. House Robber|[Problem](https://leetcode.com/problems/house-robber/)|[Solution](src/LeetcodeSolutions/Easy/HouseRobber.java)|Easy|Dynamic Programming|
+|Leetcode|Java|888. Fair Candy Swap|[Problem](https://leetcode.com/problems/fair-candy-swap/)|[Solution](src/LeetcodeSolutions/Easy/FairCandySwap.java)|Easy|Array|
 |Leetcode|Java|1046. Last Stone Weight|[Problem](https://leetcode.com/problems/last-stone-weight/)|[Solution](src/LeetcodeSolutions/Easy/LastStoneWeight.java)|Easy|Heap, Greedy Algorithms|
 |Leetcode|Java|1331. Rank Transform of an Array|[Problem](https://leetcode.com/problems/rank-transform-of-an-array/)|[Solution](src/LeetcodeSolutions/Easy/RankTransformOfAnArray.java)|Easy|Array|
 |Codewars|Java|All Balanced Parentheses|[Problem](https://www.codewars.com/kata/5426d7a2c2c7784365000783/train/java)|[Solution](src/CodewarsSolutions/kata4/AllBalancedParentheses.java)|4 kyu|

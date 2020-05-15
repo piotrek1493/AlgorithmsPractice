@@ -15,6 +15,8 @@ public class RankTransformOfAnArray {
         int[] temp = Arrays.copyOf(arr, arr.length);
         Arrays.sort(temp);
 
+        String str = "AAA".toLowerCase();
+
         int counter = 1;
         Map<Integer,Integer> map = new HashMap<>();
 
