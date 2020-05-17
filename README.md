@@ -9,6 +9,12 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 
 |Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics|
 ---|---|---|---|---|---|---
+|Leetcode|Java|1381. Design a Stack With Increment Operation|[Problem](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](src/LeetcodeSolutions/Medium/CustomStack.java)|Medium|Stack, Design|
+|Leetcode|Java|1387. Sort Integers by The Power Value|[Problem](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Solution](src/LeetcodeSolutions/Medium/SortIntegersByPowerValue.java)|Medium|Sort, Graph|
+|Leetcode|Java|520. Detect Capital|[Problem](https://leetcode.com/problems/detect-capital/)|[Solution](src/LeetcodeSolutions/Easy/DetectCapital.java)|Easy|String|
+|Leetcode|Java|28. ImplementstrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
+|Leetcode|Java|1413. Minimum Value to Get Positive Step by Step Sum|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](src/LeetcodeSolutions/Easy/MinimumValue.java)|Easy|Array|
+|Leetcode|Java|706. Design Hashmap|[Problem](https://leetcode.com/problems/design-hashmap/)|[Solution](src/LeetcodeSolutions/Easy/MyHashMap.java)|Easy|Hash Table, Design|
 |Leetcode|Java|1304. Find N Unique Integers Sum up to Zero|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](src/LeetcodeSolutions/Easy/FindUniqueIntegersSum.java)|Easy|Array|
 |Leetcode|Java|705. Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/)|[Solution](src/LeetcodeSolutions/Easy/MyHashSet.java)|Easy|Hash Table, Design|
 |Leetcode|Java|198. House Robber|[Problem](https://leetcode.com/problems/house-robber/)|[Solution](src/LeetcodeSolutions/Easy/HouseRobber.java)|Easy|Dynamic Programming|
