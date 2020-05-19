@@ -15,6 +15,8 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|520. Detect Capital|[Problem](https://leetcode.com/problems/detect-capital/)|[Solution](src/LeetcodeSolutions/Easy/DetectCapital.java)|Easy|String|
 |Leetcode|Java|28. ImplementstrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
 |Leetcode|Java|1413. Minimum Value to Get Positive Step by Step Sum|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](src/LeetcodeSolutions/Easy/MinimumValue.java)|Easy|Array|
+|Leetcode|Java|1189. Maximum Number of Balloons|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](src/LeetcodeSolutions/Easy/MaximumNumberOfBalloons.java)|Easy|Hash Table, String|
+|Leetcode|Java|461. Hamming Distance|[Problem](https://leetcode.com/problems/hamming-distance/)|[Solution](src/LeetcodeSolutions/Easy/HammingDistance.java)|Easy|Bit Manipulation|
 |Leetcode|Java|706. Design Hashmap|[Problem](https://leetcode.com/problems/design-hashmap/)|[Solution](src/LeetcodeSolutions/Easy/MyHashMap.java)|Easy|Hash Table, Design|
 |Leetcode|Java|1089. Duplicate Zeros|[Problem](https://leetcode.com/problems/duplicate-zeros/)|[Solution](src/LeetcodeSolutions/Easy/DuplicateZeros.java)|Easy|Array|
 |Leetcode|Java|171. Excel Sheet Column Number|[Problem](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](src/LeetcodeSolutions/Easy/ExcelSheetColumnNumber.java)|Easy|Math|
