@@ -12,9 +12,14 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|338. Counting Bits|[Problem](https://leetcode.com/problems/counting-bits/)|[Solution](src/LeetcodeSolutions/Medium/CountingBits.java)|Medium|Dynamic Programming, Bit Manipulation|
 |Leetcode|Java|1381. Design a Stack With Increment Operation|[Problem](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](src/LeetcodeSolutions/Medium/CustomStack.java)|Medium|Stack, Design|
 |Leetcode|Java|1387. Sort Integers by The Power Value|[Problem](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Solution](src/LeetcodeSolutions/Medium/SortIntegersByPowerValue.java)|Medium|Sort, Graph|
+|Leetcode|Java|535. Encode and Decode TinyURL|[Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](src/LeetcodeSolutions/Medium/EncodeAndDecodeTinyURL.java)|Medium|Hash Table, Math|
 |Leetcode|Java|520. Detect Capital|[Problem](https://leetcode.com/problems/detect-capital/)|[Solution](src/LeetcodeSolutions/Easy/DetectCapital.java)|Easy|String|
 |Leetcode|Java|28. ImplementstrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
 |Leetcode|Java|1413. Minimum Value to Get Positive Step by Step Sum|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](src/LeetcodeSolutions/Easy/MinimumValue.java)|Easy|Array|
+|Leetcode|Java|821. Shortest Distance to a Character|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](src/LeetcodeSolutions/Easy/ShortestDistanceToACharacter.java)|Easy|Array, String|
+|Leetcode|Java|917. Reverse Only Letters|[Problem](https://leetcode.com/problems/reverse-only-letters/)|[Solution](src/LeetcodeSolutions/Easy/ReverseOnlyLetters.java)|Easy|String|
+|Leetcode|Java|1200. Minimum Absolute Difference|[Problem](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution](src/LeetcodeSolutions/Easy/MinimumAbsoluteDifference.java)|Easy|Array|
+|Leetcode|Java|942. DI String Match|[Problem](https://leetcode.com/problems/di-string-match/)|[Solution](src/LeetcodeSolutions/Easy/DIStringMatch.java)|Easy|Math|
 |Leetcode|Java|1189. Maximum Number of Balloons|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](src/LeetcodeSolutions/Easy/MaximumNumberOfBalloons.java)|Easy|Hash Table, String|
 |Leetcode|Java|461. Hamming Distance|[Problem](https://leetcode.com/problems/hamming-distance/)|[Solution](src/LeetcodeSolutions/Easy/HammingDistance.java)|Easy|Bit Manipulation|
 |Leetcode|Java|706. Design Hashmap|[Problem](https://leetcode.com/problems/design-hashmap/)|[Solution](src/LeetcodeSolutions/Easy/MyHashMap.java)|Easy|Hash Table, Design|
