@@ -9,7 +9,9 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 
 |Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics|
 ---|---|---|---|---|---|---
+|Leetcode|Java|11. Container With Most Water|[Problem](https://leetcode.com/problems/container-with-most-water/)|[Solution](src/LeetcodeSolutions/Medium/ContainerWithTheMostWater.java)|Medium|Array, Two Pointers|
 |Leetcode|Java|338. Counting Bits|[Problem](https://leetcode.com/problems/counting-bits/)|[Solution](src/LeetcodeSolutions/Medium/CountingBits.java)|Medium|Dynamic Programming, Bit Manipulation|
+|Leetcode|Java|791. Custom Sort String|[Problem](https://leetcode.com/problems/custom-sort-string/)|[Solution](src/LeetcodeSolutions/Medium/CustomSortString.java)|Medium|String|
 |Leetcode|Java|1381. Design a Stack With Increment Operation|[Problem](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](src/LeetcodeSolutions/Medium/CustomStack.java)|Medium|Stack, Design|
 |Leetcode|Java|1387. Sort Integers by The Power Value|[Problem](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Solution](src/LeetcodeSolutions/Medium/SortIntegersByPowerValue.java)|Medium|Sort, Graph|
 |Leetcode|Java|535. Encode and Decode TinyURL|[Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](src/LeetcodeSolutions/Medium/EncodeAndDecodeTinyURL.java)|Medium|Hash Table, Math|
@@ -34,6 +36,9 @@ You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|888. Fair Candy Swap|[Problem](https://leetcode.com/problems/fair-candy-swap/)|[Solution](src/LeetcodeSolutions/Easy/FairCandySwap.java)|Easy|Array|
 |Leetcode|Java|1046. Last Stone Weight|[Problem](https://leetcode.com/problems/last-stone-weight/)|[Solution](src/LeetcodeSolutions/Easy/LastStoneWeight.java)|Easy|Heap, Greedy Algorithms|
 |Leetcode|Java|1331. Rank Transform of an Array|[Problem](https://leetcode.com/problems/rank-transform-of-an-array/)|[Solution](src/LeetcodeSolutions/Easy/RankTransformOfAnArray.java)|Easy|Array|
+|Leetcode|Java|1417. Reformat The String|[Problem](https://leetcode.com/problems/reformat-the-string/)|[Solution](src/LeetcodeSolutions/Easy/ReformatTheString.java)|Easy|String|
+|Leetcode|Java|1422. Maximum Score After Splitting a String|[Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Solution](src/LeetcodeSolutions/Easy/MaximumScoreAfterSplittingAString.java)|Easy|String|
+|Leetcode|Java|884. Uncommon Words from Two Sentences|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Solution](src/LeetcodeSolutions/Easy/UncommonWordsFromTwoSentences.java)|Easy|Hash Table|
 |Codewars|Java|All Balanced Parentheses|[Problem](https://www.codewars.com/kata/5426d7a2c2c7784365000783/train/java)|[Solution](src/CodewarsSolutions/kata4/AllBalancedParentheses.java)|4 kyu|
 |Codewars|Java|Strip Comments|[Problem](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/java)|[Solution](src/CodewarsSolutions/kata4/StripComments.java)|4 kyu|
 |Codewars|Java|Best Travel|[Problem](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/discuss/java)|[Solution](src/CodewarsSolutions/kata5/BestTravel.java)|5 kyu|
