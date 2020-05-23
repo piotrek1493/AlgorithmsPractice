@@ -31,7 +31,7 @@ public class LastStoneWeight {
                 i-=2;
                 if(i < 0) i = -1;
             } else if(list.get(i) != list.get(i + 1)) {
-                list.set(i, list.get(i) - list.get(i+1));
+                list.set(i, list.get(i) - list.get(i + 1));
                 list.remove(i + 1);
                 i--;
                 if(i < 0) i = -1;
