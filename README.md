@@ -5,18 +5,20 @@ challanges, mostly in Java with occasional SQL queries.
 
 You can find me on Codewars [here](https://www.codewars.com/users/piotrek1493).
 You can find me on Hackerrank [here](https://www.hackerrank.com/piotrek1493).
-You can fine me on Leetcode [here](www.https://www.leetcode.com/piotrek1493).
+You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 
 |Webiste|Programming Language|Problem Name|Problem Link|Solution Link|Difficulty|Topics|
 ---|---|---|---|---|---|---
 |Leetcode|Java|11. Container With Most Water|[Problem](https://leetcode.com/problems/container-with-most-water/)|[Solution](src/LeetcodeSolutions/Medium/ContainerWithTheMostWater.java)|Medium|Array, Two Pointers|
 |Leetcode|Java|338. Counting Bits|[Problem](https://leetcode.com/problems/counting-bits/)|[Solution](src/LeetcodeSolutions/Medium/CountingBits.java)|Medium|Dynamic Programming, Bit Manipulation|
+|Leetcode|Java|647. Palindromic Substrings|[Problem](https://leetcode.com/problems/palindromic-substrings/)|[Solution](src/LeetcodeSolutions/Medium/PalindromicSubstrings.java)|Medium|Dynamic Programming, String|
+|Leetcode|Java|739. Daily Temperatures|[Problem](https://leetcode.com/problems/daily-temperatures/)|[Solution](src/LeetcodeSolutions/Medium/DailyTemperatures.java)|Medium|Hash Table, Stack|
 |Leetcode|Java|791. Custom Sort String|[Problem](https://leetcode.com/problems/custom-sort-string/)|[Solution](src/LeetcodeSolutions/Medium/CustomSortString.java)|Medium|String|
 |Leetcode|Java|1381. Design a Stack With Increment Operation|[Problem](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](src/LeetcodeSolutions/Medium/CustomStack.java)|Medium|Stack, Design|
 |Leetcode|Java|1387. Sort Integers by The Power Value|[Problem](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Solution](src/LeetcodeSolutions/Medium/SortIntegersByPowerValue.java)|Medium|Sort, Graph|
 |Leetcode|Java|535. Encode and Decode TinyURL|[Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](src/LeetcodeSolutions/Medium/EncodeAndDecodeTinyURL.java)|Medium|Hash Table, Math|
 |Leetcode|Java|520. Detect Capital|[Problem](https://leetcode.com/problems/detect-capital/)|[Solution](src/LeetcodeSolutions/Easy/DetectCapital.java)|Easy|String|
-|Leetcode|Java|28. ImplementstrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
+|Leetcode|Java|28. ImplementStrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
 |Leetcode|Java|1413. Minimum Value to Get Positive Step by Step Sum|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](src/LeetcodeSolutions/Easy/MinimumValue.java)|Easy|Array|
 |Leetcode|Java|821. Shortest Distance to a Character|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](src/LeetcodeSolutions/Easy/ShortestDistanceToACharacter.java)|Easy|Array, String|
 |Leetcode|Java|917. Reverse Only Letters|[Problem](https://leetcode.com/problems/reverse-only-letters/)|[Solution](src/LeetcodeSolutions/Easy/ReverseOnlyLetters.java)|Easy|String|
