@@ -12,7 +12,7 @@ public class ImplementStrStr {
         if(needle.length() > haystack.length()) return -1;
 
         for(int i = 0; i < haystack.length() - needle.length() + 1; i++) {
-            if(haystack.substring(i, i+needle.length()).equals(needle)) {
+            if(haystack.substring(i, i + needle.length()).equals(needle)) {
                 return i;
             }
         }
