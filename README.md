@@ -25,6 +25,7 @@ You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|1200. Minimum Absolute Difference|[Problem](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution](src/LeetcodeSolutions/Easy/MinimumAbsoluteDifference.java)|Easy|Array|
 |Leetcode|Java|942. DI String Match|[Problem](https://leetcode.com/problems/di-string-match/)|[Solution](src/LeetcodeSolutions/Easy/DIStringMatch.java)|Easy|Math|
 |Leetcode|Java|1189. Maximum Number of Balloons|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](src/LeetcodeSolutions/Easy/MaximumNumberOfBalloons.java)|Easy|Hash Table, String|
+|Leetcode|Java|136. Single Number|[Problem](https://leetcode.com/problems/single-number/)|[Solution](src/LeetcodeSolutions/Easy/SingleNumber.java)|Easy|Hash Table, Bit Manipulation|
 |Leetcode|Java|461. Hamming Distance|[Problem](https://leetcode.com/problems/hamming-distance/)|[Solution](src/LeetcodeSolutions/Easy/HammingDistance.java)|Easy|Bit Manipulation|
 |Leetcode|Java|706. Design Hashmap|[Problem](https://leetcode.com/problems/design-hashmap/)|[Solution](src/LeetcodeSolutions/Easy/MyHashMap.java)|Easy|Hash Table, Design|
 |Leetcode|Java|1089. Duplicate Zeros|[Problem](https://leetcode.com/problems/duplicate-zeros/)|[Solution](src/LeetcodeSolutions/Easy/DuplicateZeros.java)|Easy|Array|
