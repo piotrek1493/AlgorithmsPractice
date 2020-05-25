@@ -21,6 +21,7 @@ You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|28. ImplementStrStr()|[Problem](https://leetcode.com/problems/implement-strstr/)|[Solution](src/LeetcodeSolutions/Easy/ImplementStrStr.java)|Easy|Two Pointers, String|
 |Leetcode|Java|1413. Minimum Value to Get Positive Step by Step Sum|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](src/LeetcodeSolutions/Easy/MinimumValue.java)|Easy|Array|
 |Leetcode|Java|821. Shortest Distance to a Character|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](src/LeetcodeSolutions/Easy/ShortestDistanceToACharacter.java)|Easy|Array, String|
+|Leetcode|Java|860. Lemonade Change|[Problem](https://leetcode.com/problems/lemonade-change/)|[Solution](src/LeetcodeSolutions/Easy/LemonadeChange.java)|Easy|Greedy Algorithms|
 |Leetcode|Java|917. Reverse Only Letters|[Problem](https://leetcode.com/problems/reverse-only-letters/)|[Solution](src/LeetcodeSolutions/Easy/ReverseOnlyLetters.java)|Easy|String|
 |Leetcode|Java|1200. Minimum Absolute Difference|[Problem](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution](src/LeetcodeSolutions/Easy/MinimumAbsoluteDifference.java)|Easy|Array|
 |Leetcode|Java|942. DI String Match|[Problem](https://leetcode.com/problems/di-string-match/)|[Solution](src/LeetcodeSolutions/Easy/DIStringMatch.java)|Easy|Math|
