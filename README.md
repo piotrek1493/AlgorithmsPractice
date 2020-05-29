@@ -34,6 +34,7 @@ You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|171. Excel Sheet Column Number|[Problem](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](src/LeetcodeSolutions/Easy/ExcelSheetColumnNumber.java)|Easy|Math|
 |Leetcode|Java|463. Island Perimeter|[Problem](https://leetcode.com/problems/island-perimeter/)|[Solution](src/LeetcodeSolutions/Easy/IslandPerimeter.java)|Easy|Hash Table|
 |Leetcode|Java|557. Reverse Words in a String III|[Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](src/LeetcodeSolutions/Easy/ReverseWordsInAStringIII.java)|Easy|String|
+|Leetcode|Java|1281. Subtract the Product and Sum of Digits of an Integer|[Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](src/LeetcodeSolutions/Easy/SubtractTheProduct.java)|Easy|Math|
 |Leetcode|Java|290. Word Pattern|[Problem](https://leetcode.com/problems/word-pattern/)|[Solution](src/LeetcodeSolutions/Easy/WordPattern.java)|Easy|Hash Table|
 |Leetcode|Java|1304. Find N Unique Integers Sum up to Zero|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](src/LeetcodeSolutions/Easy/FindUniqueIntegersSum.java)|Easy|Array|
 |Leetcode|Java|705. Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/)|[Solution](src/LeetcodeSolutions/Easy/MyHashSet.java)|Easy|Hash Table, Design|
