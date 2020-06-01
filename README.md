@@ -27,6 +27,7 @@ You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|942. DI String Match|[Problem](https://leetcode.com/problems/di-string-match/)|[Solution](src/LeetcodeSolutions/Easy/DIStringMatch.java)|Easy|Math|
 |Leetcode|Java|657. Robot Return to Origin|[Problem](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](src/LeetcodeSolutions/Easy/RobotReturnedToOrigin.java)|Easy|String|
 |Leetcode|Java|1189. Maximum Number of Balloons|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](src/LeetcodeSolutions/Easy/MaximumNumberOfBalloons.java)|Easy|Hash Table, String|
+|Leetcode|Java|1323. Maximum 69 Number|[Problem](https://leetcode.com/problems/maximum-69-number/)|[Solution](src/LeetcodeSolutions/Easy/Maximum69Number.java)|Easy|Math|
 |Leetcode|Java|709. To Lower Case|[Problem](https://leetcode.com/problems/to-lower-case/)|[Solution](src/LeetcodeSolutions/Easy/ToLowerCase.java)|Easy|String|
 |Leetcode|Java|136. Single Number|[Problem](https://leetcode.com/problems/single-number/)|[Solution](src/LeetcodeSolutions/Easy/SingleNumber.java)|Easy|Hash Table, Bit Manipulation|
 |Leetcode|Java|461. Hamming Distance|[Problem](https://leetcode.com/problems/hamming-distance/)|[Solution](src/LeetcodeSolutions/Easy/HammingDistance.java)|Easy|Bit Manipulation|
