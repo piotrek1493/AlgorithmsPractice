@@ -31,6 +31,7 @@ You can find me on Leetcode [here](https://www.leetcode.com/piotrek1493).
 |Leetcode|Java|709. To Lower Case|[Problem](https://leetcode.com/problems/to-lower-case/)|[Solution](src/LeetcodeSolutions/Easy/ToLowerCase.java)|Easy|String|
 |Leetcode|Java|136. Single Number|[Problem](https://leetcode.com/problems/single-number/)|[Solution](src/LeetcodeSolutions/Easy/SingleNumber.java)|Easy|Hash Table, Bit Manipulation|
 |Leetcode|Java|461. Hamming Distance|[Problem](https://leetcode.com/problems/hamming-distance/)|[Solution](src/LeetcodeSolutions/Easy/HammingDistance.java)|Easy|Bit Manipulation|
+|Leetcode|Java|1431. Kids With the Greatest Number of Candies|[Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](src/LeetcodeSolutions/Easy/KidsWithTheGreatestNumberOfCandies.java)|Easy|Array|
 |Leetcode|Java|706. Design Hashmap|[Problem](https://leetcode.com/problems/design-hashmap/)|[Solution](src/LeetcodeSolutions/Easy/MyHashMap.java)|Easy|Hash Table, Design|
 |Leetcode|Java|1089. Duplicate Zeros|[Problem](https://leetcode.com/problems/duplicate-zeros/)|[Solution](src/LeetcodeSolutions/Easy/DuplicateZeros.java)|Easy|Array|
 |Leetcode|Java|171. Excel Sheet Column Number|[Problem](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](src/LeetcodeSolutions/Easy/ExcelSheetColumnNumber.java)|Easy|Math|
